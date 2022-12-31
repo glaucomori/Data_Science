@@ -1,0 +1,44 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Pitty"},
+                  "SongTitle": {"S": "Diario"},
+                  "AlbumTitle": {"S": "Casulo"},
+                  "SongYear": {"S": "2022"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Pitty"},
+                  "SongTitle": {"S": "Simplesmente Fluir"},
+                  "AlbumTitle": {"S": "Casulo"},
+                  "SongYear": {"S": "2022"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Pitty"},
+                  "SongTitle": {"S": "Diamante"},
+                  "AlbumTitle": {"S": "Casulo"},
+                  "SongYear": {"S": "2022"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Pitty"},
+                  "SongTitle": {"S": "Busca Implacavel"},
+                  "AlbumTitle": {"S": "Casulo"},
+                  "SongYear": {"S": "2022"}
+                }
+            }
+        }
+      ]
+}

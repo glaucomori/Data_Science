@@ -1,0 +1,40 @@
+project_name/
+	README.md
+	setup.py
+	requirements.txt
+	package_name/
+		__init__.py
+		module1_name/
+			__init__.py
+			file1_name.py
+			file2_name.py
+		module2_name/
+			__init__.py
+			file1_name.py
+			file2_name.py
+
+
+project_name/
+	README.md
+	setup.py
+	requirements.txt
+	package_name/
+		__init__.py
+		file1_name.py
+		file2_name.py
+
+
+image-processing-package/
+	README.md
+	setup.py
+	requirements.txt
+	image_processing/
+		__init__.py
+		processing/
+			__init__.py
+			combination.py
+			transformation.py
+		utils/
+			__init__.py
+			io.py
+			plot.py
